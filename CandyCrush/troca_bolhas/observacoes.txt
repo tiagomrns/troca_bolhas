@@ -1,0 +1,8 @@
+compilado, o jogo apenas tem animacoes se a MACRO VISUAL tiver 1
+
+o jogo tem uma UI diferente que consiste em arrastar as bolas em vez de selecionar duas
+escolhemos fazer isso, nao porque seria mais facil (pelo contrario), mas porque o jogo se torna mas user friendly
+
+o jogo tem dimensoes padrao caso as inseridas pelo utilizador nao existam ou sejam inadequadas
+
+compilado com -std=c99
